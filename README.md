@@ -9,4 +9,4 @@ I just changed the shape, but other parameters can be changed using this same se
 
 **https://docs.oracle.com/en-us/iaas/api/#/en/iaas/20160918/Instance/UpdateInstance**
 
-
+Upon successful push, the printed output will show the current values for the VM.  The VM Will stop and restart with the new parameters.
